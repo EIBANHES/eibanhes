@@ -1,5 +1,4 @@
 ## Olá! Me chamo Emanuel Barros Ibanhes, atualmente sou Analista de Qualidade JR e também Desenvolvedor Full Stack JR! 🤘
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=eibanhes&show_icons=true&theme=dark&count_private=true)
 
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block"><br>
